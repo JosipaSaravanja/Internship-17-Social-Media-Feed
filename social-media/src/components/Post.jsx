@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 
 
 export const Post=(props)=>{
-  const width=props.isComment ? "960px" : "1000px"
+  const width=props.isComment ?  "720px" : "750px";
     return <Link to={props.isComment ? "": "/" +props.post.id} className={props.isComment ? "comment": ""}>
     <Card sx={{ width: {width}, m: 1.5}}>
     <CardHeader
@@ -16,7 +16,7 @@ export const Post=(props)=>{
           />
       }
       title={props.user.username}
-      subheader={props.post.date}
+      subheader={props.post.date.split('-').map(el=>el+". ")}
     />
     <CardContent>
     <Typography variant="body2" color="text.secondary">

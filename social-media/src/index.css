@@ -54,7 +54,7 @@ button{
 }
 
 .ccc{
-  width: 1000px;
+  width: 750px;
   margin: auto;
   border-radius: 10px;
   background-color: rgb(211, 224, 241);
@@ -67,4 +67,16 @@ button{
 .comment{
   display: flex!important;
   cursor: context-menu;
+}
+
+.notAvailable{    
+  text-align: center;
+  font-size: 150%;
+  color: #8fa8c9;
+}
+
+@media only screen and (max-width: 1050) {
+  body {
+    background-color: lightblue;
+  }
 }
