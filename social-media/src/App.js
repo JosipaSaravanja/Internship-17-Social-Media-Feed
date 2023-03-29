@@ -1,11 +1,8 @@
-
+import "./index.css";
+import {Router} from "./components/Router"
 
 function App() {
-  return (
-    <div className="App">
-
-    </div>
-  );
+  return <Router/>;
 }
 
 export default App;
