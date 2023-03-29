@@ -1,0 +1,72 @@
+[
+    {
+        "id" : 0,
+        "userId": 0,
+        "date": "fsxfgdfg",
+        "text": "Her dream is to visit Paris.",
+        "comments": [1, 2,3 , 4] 
+    },
+    {
+        "id" : 1,
+        "userId": 1,
+        "date": "sdesrwr",
+        "text": "You're making a big fuss about nothing.",
+        "comments": [0, 2]
+    },
+    {
+        "id" : 2,
+        "userId": 5,
+        "date": "ghjghjghj",
+        "text": "Anyone who wants to give charity to the poor, but not give the poor a vote in how the resources are spent, is actively working to entrench the power of the wealthy to control society.",
+        "comments": [0, 1] 
+    },
+    {
+        "id" : 3,
+        "userId": 3,
+        "date": "sdesrwr",
+        "text": "He was wearing a vest.",
+        "comments": []
+    },
+    {
+        "id" : 4,
+        "userId": 4,
+        "date": "sdesrwr",
+        "text": "The papers say that there was a big fire in Nagoya.",
+        "comments": []
+    },
+    {
+        "id" : 5,
+        "userId": 0,
+        "date": "ghjghjghj",
+        "text": "There used to be a pine tree in front of my house.",
+        "comments": [] 
+    },
+    {
+        "id" : 6,
+        "userId": 1,
+        "date": "sdesrwr",
+        "text": "Nothing ever really took off.",
+        "comments": []
+    },
+    {
+        "id" : 7,
+        "userId": 0,
+        "date": "ghjghjghj",
+        "text": "She spent over $300 on masks alone in 2020.",
+        "comments": [] 
+    },
+    {
+        "id" : 8,
+        "userId": 1,
+        "date": "sdesrwr",
+        "text": "She wanted to be bold but was too afraid to start.",
+        "comments": []
+    },
+    {
+        "id" : 9,
+        "userId": 1,
+        "date": "sdesrwr",
+        "text": "This box is three times as big as that one.",
+        "comments": []
+    }
+]
