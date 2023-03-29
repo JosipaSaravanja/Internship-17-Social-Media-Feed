@@ -21,6 +21,7 @@ export const FeedPage=()=>{
           ))
       }
   }, [searchParams])
+  
     return <div>
         {searchPosts.map(product=>{
             return <Post post={product} user={users.find(user=>user.id===product.userId)}/>

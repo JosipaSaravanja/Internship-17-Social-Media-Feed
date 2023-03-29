@@ -1,5 +1,6 @@
 import {Layout} from "./Layout";
 import {FeedPage} from "../pages/FeedPage/FeedPage"
+import {PostPage} from "../pages/PostPage/PostPage"
 import {
   createBrowserRouter,
   createRoutesFromElements,
@@ -12,7 +13,7 @@ const router = createBrowserRouter(
     <>
       <Route path="/" element={<Layout/>}>
         <Route index element={<FeedPage/>} />
-        <Route path=":postId"/>
+        <Route path=":postId" element={<PostPage/>} />
         <Route path="missing"/>
       </Route>
     </>
