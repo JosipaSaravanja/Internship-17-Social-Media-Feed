@@ -1,52 +1,52 @@
 [
-    {
-        "id" : 0,
-        "username": "neptune",
-        "img": "https://picsum.photos/id/44/50/50"
-    },
-    {
-        "id" : 1,
-        "username": "cherryfog",
-        "img": "https://picsum.photos/id/728/50/50"
-    },
-    {
-        "id" : 2,
-        "username": "oliveice",
-        "img": "https://picsum.photos/id/400/50/50"
-    },
-    {
-        "id" : 3,
-        "username": "platoon",
-        "img": "https://picsum.photos/id/997/50/50"
-    },
-    {
-        "id" : 4,
-        "username": "snakenix",
-        "img": "https://picsum.photos/id/387/50/50"
-    },
-    {
-        "id" : 5,
-        "username": "charonfox",
-        "img": "https://picsum.photos/id/367/50/50"
-    },
-    {
-        "id" : 6,
-        "username": "fishskis",
-        "img": "https://picsum.photos/id/327/50/50"
-    },
-    {
-        "id" : 7,
-        "username": "porcupine",
-        "img": "https://picsum.photos/id/347/50/50"
-    },
-    {
-        "id" : 8,
-        "username": "eggcoffee",
-        "img": "https://picsum.photos/id/357/50/50"
-    },
-    {
-        "id" : 9,
-        "username": "glovecorn",
-        "img": "https://picsum.photos/id/399/50/50"
-    }
+  {
+    "id": 0,
+    "username": "neptune",
+    "img": "https://picsum.photos/id/44/50/50"
+  },
+  {
+    "id": 1,
+    "username": "cherryfog",
+    "img": "https://picsum.photos/id/728/50/50"
+  },
+  {
+    "id": 2,
+    "username": "oliveice",
+    "img": "https://picsum.photos/id/400/50/50"
+  },
+  {
+    "id": 3,
+    "username": "platoon",
+    "img": "https://picsum.photos/id/997/50/50"
+  },
+  {
+    "id": 4,
+    "username": "snakenix",
+    "img": "https://picsum.photos/id/387/50/50"
+  },
+  {
+    "id": 5,
+    "username": "charonfox",
+    "img": "https://picsum.photos/id/367/50/50"
+  },
+  {
+    "id": 6,
+    "username": "fishskis",
+    "img": "https://picsum.photos/id/327/50/50"
+  },
+  {
+    "id": 7,
+    "username": "porcupine",
+    "img": "https://picsum.photos/id/347/50/50"
+  },
+  {
+    "id": 8,
+    "username": "eggcoffee",
+    "img": "https://picsum.photos/id/357/50/50"
+  },
+  {
+    "id": 9,
+    "username": "glovecorn",
+    "img": "https://picsum.photos/id/399/50/50"
+  }
 ]
