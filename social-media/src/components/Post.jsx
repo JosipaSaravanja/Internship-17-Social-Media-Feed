@@ -6,8 +6,9 @@ import { Link } from 'react-router-dom';
 
 
 export const Post=(props)=>{
-    return <Link to={"/" +props.post.id}>
-    <Card sx={{ width: "1000px", m: 1.5}}>
+  const width=props.isComment ? "960px" : "1000px"
+    return <Link to={props.isComment ? "": "/" +props.post.id} className={props.isComment ? "comment": ""}>
+    <Card sx={{ width: {width}, m: 1.5}}>
     <CardHeader
       avatar={
           <Avatar
